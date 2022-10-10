@@ -1,0 +1,10 @@
+git init https://github.com/ItsRuben01/EjerPython_IEI.git
+git remote add origin https://github.com/ItsRuben01/EjerPython_IEI.git
+
+
+----- A partir de aqui se debe llevar a cabo el proceso para subir cualquier tipo de modificación a nuestro repositorio ----
+
+git status
+git add *
+git commit -m "argumento de tu commit"
+git push origin master
